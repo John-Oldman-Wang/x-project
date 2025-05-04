@@ -12,6 +12,8 @@
     "baseUrl": "./",
     "incremental": true,
     "forceConsistentCasingInFileNames": true,
+    "jsx": "react-jsx",
     "skipLibCheck": true
-  }
+  },
+  "include": ["./src"]
 }
